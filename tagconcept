@@ -1,0 +1,8 @@
+1.take a file
+2.add and commit
+3.git tags to get list of tags
+4.git tag v1.2 - it adds this add in latest commit
+5.git tag v1.3 commitid: it adds the tag to that specific commitid
+git push origin v1.2 - pushes to repository
+git push origin --tags - push all tags to repository
+
